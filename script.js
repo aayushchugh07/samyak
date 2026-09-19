@@ -15,7 +15,7 @@
 
   /* ---------- 1. CONFIG ---------- */
   const CONFIG = {
-    whatsappNumber: '918886474957',          // country code + number, no "+" or spaces
+    whatsappNumber: '919876543210',          // country code + number, no "+" or spaces
     phoneDisplay: '+91 88864 74957',
     email: 'info@samyakcomputerclasses.com', // change to your real e-mail
     showSampleBadges: true,                  // set to false once real data is added
